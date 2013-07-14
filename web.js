@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+var util = require('util');
 var express = require('express');
 var fs = require('fs');
 
